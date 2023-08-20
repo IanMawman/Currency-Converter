@@ -1,0 +1,71 @@
+body {
+    background-color: #f0f0f0;
+  }
+  
+  .conversion-box {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+  .currency-selection {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .currency-select {
+    margin: 0 5px; /* Add margin to both sides */
+  }
+  
+  .currency-label {
+    width: 160px; /* Adjust the width as needed */
+    text-align: right;
+    margin-right: 10px;
+  }
+  
+  .from-currency-adjust {
+    margin-right: 50px !important;
+  }
+  
+  .center-content {
+    text-align: center; /* Center-align the content */
+  }
+  
+  .custom-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    margin-top: 10px; /* Adjust margin as needed */
+  }
+  
+  .custom-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .output-box {
+    margin: 0 auto; /* Horizontally center the element */
+    max-width: 10000px; /* Adjust the maximum width as needed */
+    text-align: center; /* Center-align text within the element */
+    padding: 20px; /* Add padding for better appearance */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+
+  .jumbotron {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 100px;
+    border-radius: 0;
+  }
+  .jumbotron h1 {
+    font-size: 2.5rem;
+  }
+  .jumbotron p {
+    font-size: 1.2rem;
+  }
